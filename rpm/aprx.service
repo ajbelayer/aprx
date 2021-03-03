@@ -6,6 +6,7 @@ Documentation=man:aprx(8)
 Type=simple
 ExecStart=/usr/sbin/aprx
 # doesn't do any internal reload
+RemainAfterExit=true
 
 [Install]
 WantedBy=multi-user.target
