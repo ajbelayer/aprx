@@ -1,0 +1,5 @@
+Add active low GPIO support - https://github.com/ab0tj/aprx/commit/e13fa338602d15bf9268a7dfbe9ff4c5a62e9bc6
+Various updates - https://github.com/hb9xar/aprx/commits/master
+CLOCK_MONOTONIC fix - https://github.com/mitchmitchell/aprx/commit/c4d1b3a37c2b7c6be2d2d7900276868be18d4198
+Major Systemd work - https://github.com/owenduffy/aprx/commit/f87332f37549cd9bf8b269c0f15b0a976c5595cd
+Larger set of changes - https://github.com/owenduffy/aprx/commits/master
